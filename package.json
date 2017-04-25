@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### test coverage for  [wraith (v2.0.2)](https://github.com/jamesryanbell/node-wraith)  [![npm package](https://img.shields.io/npm/v/npmtest-wraith.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-wraith) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-wraith.svg)](https://travis-ci.org/npmtest/node-npmtest-wraith)",
+    "description": "#### basic test coverage for  [wraith (v2.0.2)](https://github.com/jamesryanbell/node-wraith)  [![npm package](https://img.shields.io/npm/v/npmtest-wraith.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-wraith) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-wraith.svg)](https://travis-ci.org/npmtest/node-npmtest-wraith)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "utility2": "kaizhu256/node-utility2#alpha",
